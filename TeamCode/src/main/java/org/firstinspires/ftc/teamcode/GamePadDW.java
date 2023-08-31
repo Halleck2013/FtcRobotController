@@ -11,6 +11,7 @@ public class GamePadDW extends OpMode {
     }
     @Override
     public void loop(){
+        //Test
         telemetry.addData("Left stick x",gamepad1.left_stick_x);
         telemetry.addData("Left stick x",gamepad1.left_stick_y);
         telemetry.addData("Right Trigger",gamepad1.left_trigger);
