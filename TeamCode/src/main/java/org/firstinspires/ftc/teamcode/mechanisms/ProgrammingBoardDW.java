@@ -10,7 +10,7 @@ import com.qualcomm.robotcore.hardware.Servo;
 import org.firstinspires.ftc.robotcore.external.navigation.DistanceUnit;
 
 public class ProgrammingBoardDW {
-//Yes
+//Yes this is something to think about.Weeeeee!
     private DigitalChannel touchSensor;
     private DcMotor motor0;
     private DcMotor motor1;
